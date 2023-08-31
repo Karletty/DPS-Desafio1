@@ -1,0 +1,22 @@
+.fluid-element {
+     flex: 0 0 1fr;
+}
+
+.fluid-element.input-container:first-child,
+input.form-control {
+     width: fit-content;
+     max-width: 600px;
+     min-width: 250px;
+}
+
+input.form-control {
+     min-width: 50px;
+}
+
+.btn {
+     height: fit-content;
+}
+
+table.table {
+     width: fit-content;
+}
