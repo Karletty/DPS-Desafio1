@@ -34,9 +34,6 @@ src="https://e7.pngegg.com/pngimages/833/426/png-clipart-black-shopping-cart-ico
 -for-free-black-shopping-cart.png"
 alt="carrito"
 className="icon-cart" />
-<div className='count-products'>
-<span id='contador-productos'>{countProducts}</span>
-</div>
 </div>
 <div
 className={`container-cart-products ${
