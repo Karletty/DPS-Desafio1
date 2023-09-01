@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/ejercicio1/node_modules
+/ejercicio2/node_modules
+/ejercicio1/.pnp
+/ejercicio1/.pnp.js
+/ejercicio2/.pnp
+/ejercicio2/.pnp.js
+
+# testing
+/ejercicio2/coverage
+/ejercicio1/coverage
+
+# production
+/ejercicio1/build
+/ejercicio2/build
+
+# misc
+/ejercicio1/.DS_Store
+/ejercicio1/.env.local
+/ejercicio1/.env.development.local
+/ejercicio1/.env.test.local
+/ejercicio1/.env.production.local
+
+/ejercicio1/npm-debug.log*
+/ejercicio1/yarn-debug.log*
+/ejercicio1/yarn-error.log*
+
+/ejercicio2/.DS_Store
+/ejercicio2/.env.local
+/ejercicio2/.env.development.local
+/ejercicio2/.env.test.local
+/ejercicio2/.env.production.local
+
+/ejercicio2/npm-debug.log*
+/ejercicio2/yarn-debug.log*
+/ejercicio2/yarn-error.log*
